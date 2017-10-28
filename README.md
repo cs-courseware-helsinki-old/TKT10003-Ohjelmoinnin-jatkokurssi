@@ -5,4 +5,4 @@
 * [syksy-2017](https://courses.helsinki.fi/fi/tkt10003/119284733)
 
 ### Kurssimateriaalit
-* [syksy-2017](ttps://2017-ohjelmointi.github.io/)
+* [syksy-2017](https://materiaalit.github.io/ohjelmointi-s17/)
